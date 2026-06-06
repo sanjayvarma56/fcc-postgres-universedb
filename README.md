@@ -206,7 +206,6 @@ moon.planet_id → planet.planet_id
 - Triton
 
 ### Black Holes
-
 - Sagittarius A*
 - M87*
 - Gargantua
