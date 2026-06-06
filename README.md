@@ -230,7 +230,6 @@ moon.planet_id → planet.planet_id
 ## 🎯 Learning Outcomes
 
 After completing this project, you will understand:
-
 - How relational databases are structured
 - How to create tables and constraints
 - How primary and foreign keys work
