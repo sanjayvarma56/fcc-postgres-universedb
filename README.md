@@ -3,11 +3,9 @@
 <p>-Freecodecamp Project Database</p>
 <p>This is the project of freecodecamp</p>
 # 🌌 Universe Database Project
-
 ## 📖 Overview
 The Universe Database Project is a PostgreSQL relational database designed to store information about galaxies, stars, planets, moons, and black holes.
 This project demonstrates database design concepts such as:
-
 - Tables
 - Primary Keys
 - Foreign Keys
