@@ -25,7 +25,6 @@ This project demonstrates database design concepts such as:
 - Implements one-to-many relationships
 - Uses primary and foreign key constraints
 - Includes sample astronomical data
-
 ---
 
 ## 🛠️ Technologies Used
