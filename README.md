@@ -1,5 +1,5 @@
 # fcc-postgres-universedb-sql
-#This is a project like task which is a part of tutorial of freeodecamp
+#This is a project like task which is a part of tutorial of freeodecamp's SQL course
 <p>-Freecodecamp Project Database</p>
 <p>This is the project of freecodecamp</p>
 # 🌌 Universe Database Project
