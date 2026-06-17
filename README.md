@@ -13,7 +13,7 @@ This project demonstrates database design concepts such as:
 - Relationships
 - Data Insertion
 - Relational Modeling
----
+--
 
 ## 🚀 Features
 
