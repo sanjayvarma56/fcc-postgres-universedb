@@ -14,9 +14,7 @@ This project demonstrates database design concepts such as:
 - Data Insertion
 - Relational Modeling
 --
-
-## 🚀 Features
-
+# 🚀 Features
 - Stores information about galaxies
 - Stores information about stars
 - Stores information about planets
