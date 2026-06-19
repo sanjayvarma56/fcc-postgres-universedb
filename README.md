@@ -25,7 +25,6 @@ This project demonstrates database design concepts such as:
 - Includes sample astronomical data
 --
 ## 🛠️ Technologies Used
-
 - PostgreSQL
 - SQL
 
