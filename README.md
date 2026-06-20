@@ -28,7 +28,6 @@ This project demonstrates database design concepts such as:
 - PostgreSQL
 - SQL
 ---
-
 ## 🗂️ Database Structure
 
 ### Galaxy Table
