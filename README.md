@@ -30,9 +30,7 @@ This project demonstrates database design concepts such as:
 --
 ## 🗂️ Database Structure
 ### Galaxy Table
-
 Stores information about galaxies.
-
 | Column | Data Type |
 |----------|----------|
 | galaxy_id | INTEGER |
