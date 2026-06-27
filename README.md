@@ -41,7 +41,6 @@ Stores information about galaxies.
 | distance_from_earth | NUMERIC |
 ---
 ### Star Table
-
 Stores information about stars.
 
 | Column | Data Type |
