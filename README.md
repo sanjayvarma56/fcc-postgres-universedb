@@ -52,8 +52,7 @@ Stores information about stars.
 | mass | INTEGER |
 | galaxy_id | INTEGER |
 
----
-
+--
 ### Planet Table
 
 Stores information about planets.
