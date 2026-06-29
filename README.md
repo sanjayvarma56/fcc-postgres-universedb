@@ -66,9 +66,7 @@ Stores information about planets.
 | star_id | INTEGER |
 --
 ### Moon Table
-
 Stores information about moons.
-
 | Column | Data Type |
 |----------|----------|
 | moon_id | INTEGER |
