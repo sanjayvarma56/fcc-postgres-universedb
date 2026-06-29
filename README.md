@@ -42,7 +42,6 @@ Stores information about galaxies.
 ---
 ### Star Table
 Stores information about stars.
-
 | Column | Data Type |
 |----------|----------|
 | star_id | INTEGER |
