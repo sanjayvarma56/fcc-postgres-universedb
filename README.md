@@ -64,9 +64,7 @@ Stores information about planets.
 | is_spherical | BOOLEAN |
 | planet_order | INTEGER |
 | star_id | INTEGER |
-
----
-
+--
 ### Moon Table
 
 Stores information about moons.
