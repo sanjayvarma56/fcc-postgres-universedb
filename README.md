@@ -50,7 +50,6 @@ Stores information about stars.
 | star_type | VARCHAR(30) |
 | mass | INTEGER |
 | galaxy_id | INTEGER |
-
 --
 ### Planet Table
 
