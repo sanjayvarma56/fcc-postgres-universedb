@@ -54,7 +54,6 @@ Stores information about stars.
 ### Planet Table
 
 Stores information about planets.
-
 | Column | Data Type |
 |----------|----------|
 | planet_id | INTEGER |
