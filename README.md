@@ -73,9 +73,7 @@ Stores information about moons.
 | planet_id | INTEGER |
 ---
 ### Blackhole Table
-
 Stores information about black holes.
-
 | Column | Data Type |
 |----------|----------|
 | blackhole_id | INTEGER |
