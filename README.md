@@ -81,7 +81,7 @@ Stores information about black holes.
 | is_active | BOOLEAN |
 | mass_multiplier | INTEGER |
 
----
+--
 
 ## 🔗 Relationships
 
