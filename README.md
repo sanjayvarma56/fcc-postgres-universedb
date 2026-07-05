@@ -80,7 +80,6 @@ Stores information about black holes.
 | name | VARCHAR(50) |
 | is_active | BOOLEAN |
 | mass_multiplier | INTEGER |
-
 --
 
 ## 🔗 Relationships
