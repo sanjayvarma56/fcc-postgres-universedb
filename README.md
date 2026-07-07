@@ -96,7 +96,6 @@ Galaxy
 Blackhole
 ```
 ### Foreign Keys
-
 ```sql
 star.galaxy_id → galaxy.galaxy_id
 
