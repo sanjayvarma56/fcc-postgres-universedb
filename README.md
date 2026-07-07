@@ -95,7 +95,6 @@ Galaxy
 
 Blackhole
 ```
-
 ### Foreign Keys
 
 ```sql
