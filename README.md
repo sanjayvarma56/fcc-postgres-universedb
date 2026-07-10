@@ -204,7 +204,6 @@ After completing this project, you will understand:
 - How entities are related
 - How PostgreSQL manages data integrity
 - How to design real-world database systems
-
 ---
 ## 👨‍💻 Author
 
