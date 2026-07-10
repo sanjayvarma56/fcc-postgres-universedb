@@ -193,7 +193,6 @@ moon.planet_id → planet.planet_id
 - One-to-Many Relationships
 - Data Insertion
 ---
-
 ## 🎯 Learning Outcomes
 
 After completing this project, you will understand:
