@@ -192,7 +192,6 @@ moon.planet_id → planet.planet_id
 - Relational Databases
 - One-to-Many Relationships
 - Data Insertion
-
 ---
 
 ## 🎯 Learning Outcomes
