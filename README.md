@@ -206,7 +206,6 @@ After completing this project, you will understand:
 - How to design real-world database systems
 
 ---
-
 ## 👨‍💻 Author
 
 **Sai Sanjay Varma Datla**
