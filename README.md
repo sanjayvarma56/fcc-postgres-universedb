@@ -194,7 +194,6 @@ moon.planet_id → planet.planet_id
 - Data Insertion
 ---
 ## 🎯 Learning Outcomes
-
 After completing this project, you will understand:
 - How relational databases are structured
 - How to create tables and constraints
