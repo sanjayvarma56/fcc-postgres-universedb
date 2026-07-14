@@ -179,7 +179,6 @@ moon.planet_id → planet.planet_id
 - Gargantua
 
 ---
-
 ## 📚 Concepts Practiced
 
 - SQL
