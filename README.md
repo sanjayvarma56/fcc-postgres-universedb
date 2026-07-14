@@ -180,7 +180,6 @@ moon.planet_id → planet.planet_id
 
 ---
 ## 📚 Concepts Practiced
-
 - SQL
 - PostgreSQL
 - Database Design
