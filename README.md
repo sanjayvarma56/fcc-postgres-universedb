@@ -39,7 +39,7 @@ Stores information about galaxies.
 | has_life | BOOLEAN |
 | age_in_millions_of_years | INTEGER |
 | distance_from_earth | NUMERIC |
---
+----
 ### Star Table
 Stores information about stars.
 | Column | Data Type |
