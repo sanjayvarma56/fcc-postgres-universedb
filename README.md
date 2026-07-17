@@ -82,7 +82,6 @@ Stores information about black holes.
 | mass_multiplier | INTEGER |
 --
 ## 🔗 Relationships
-
 ```text
 Galaxy
    │
