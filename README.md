@@ -90,7 +90,6 @@ Galaxy
          └── Planet
                 │
                 └── Moon
-
 Blackhole
 ```
 ### Foreign Keys
