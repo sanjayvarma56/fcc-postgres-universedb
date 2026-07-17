@@ -99,9 +99,7 @@ star.galaxy_id → galaxy.galaxy_id
 planet.star_id → star.star_id
 
 moon.planet_id → planet.planet_id
-```
 ---
-
 ## 🔒 Constraints Used
 
 ### Primary Keys
@@ -197,7 +195,6 @@ After completing this project, you will understand:
 - How to design real-world database systems
 ---
 ## 👨‍💻 Author
-
 **Sai Sanjay Varma Datla**
 
 SQL Portfolio Project
