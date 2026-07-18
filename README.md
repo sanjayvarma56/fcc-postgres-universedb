@@ -166,7 +166,6 @@ moon.planet_id → planet.planet_id
 - Ganymede
 - Titan
 - Triton
-
 ### Black Holes
 - Sagittarius A*
 - M87*
