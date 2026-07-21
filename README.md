@@ -108,7 +108,6 @@ moon.planet_id → planet.planet_id
 - planet_id
 - moon_id
 - blackhole_id
-
 ### Unique Constraints
 
 - galaxy.name
