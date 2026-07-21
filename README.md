@@ -98,7 +98,7 @@ star.galaxy_id → galaxy.galaxy_id
 
 planet.star_id → star.star_id
 moon.planet_id → planet.planet_id
----
+--
 ## 🔒 Constraints Used
 
 ### Primary Keys
