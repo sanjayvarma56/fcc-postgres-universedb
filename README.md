@@ -115,7 +115,6 @@ moon.planet_id → planet.planet_id
 - planet.name
 - moon.name
 - blackhole.name
-
 ### Foreign Key Constraints
 
 - star → galaxy
