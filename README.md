@@ -101,7 +101,6 @@ moon.planet_id → planet.planet_id
 --
 ## 🔒 Constraints Used
 ### Primary Keys
-
 - galaxy_id
 - star_id
 - planet_id
