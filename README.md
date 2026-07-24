@@ -130,18 +130,14 @@ moon.planet_id → planet.planet_id
 - Sombrero
 - Centaurus
 - Whirlpool
-
 ### Stars
-
 - Sun
 - Sirius
 - Alpha Centauri
 - Betelgeuse
 - Rigel
 - Vega
-
 ### Planets
-
 - Earth
 - Mars
 - Venus
