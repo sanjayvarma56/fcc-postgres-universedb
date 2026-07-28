@@ -154,7 +154,7 @@ moon.planet_id → planet.planet_id
 - Sagittarius A*
 - M87*
 - Gargantua
----
+--
 ## 📚 Concepts Practiced
 - SQL
 - PostgreSQL
@@ -166,7 +166,7 @@ moon.planet_id → planet.planet_id
 - Relational Databases
 - One-to-Many Relationships
 - Data Insertion
----
+--
 ## 🎯 Learning Outcomes
 After completing this project, you will understand:
 - How relational databases are structured
