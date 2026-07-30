@@ -131,8 +131,7 @@ moon.planet_id → planet.planet_id
 - Alpha Centauri
 - Betelgeuse
 - Rigel
-- Vega
-  
+- Vega 
 ### Planets
 - Earth
 - Mars
