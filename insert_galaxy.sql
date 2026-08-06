@@ -3,6 +3,7 @@
 -- Type: TABLE DATA
 --
 
+
 INSERT INTO public.galaxy VALUES
 (1, 'Milky Way', NULL, true, 13600, NULL);
 
