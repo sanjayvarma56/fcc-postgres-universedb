@@ -13,7 +13,7 @@ This project demonstrates database design concepts such as:
 - Relationships
 - Data Insertion
 - Relational Modeling
----
+----
 # 🚀 Features
 - Stores information about galaxies
 - Stores information about stars
@@ -27,7 +27,7 @@ This project demonstrates database design concepts such as:
 ## 🛠️ Technologies Used
 - PostgreSQL
 - SQL
----
+--
 ## 🗂️ Database Structure
 ### Galaxy Table
 Stores information about galaxies.
