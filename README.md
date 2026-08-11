@@ -61,7 +61,7 @@ Stores information about planets.
 | is_spherical | BOOLEAN |
 | planet_order | INTEGER |
 | star_id | INTEGER |
----
+--
 ### Moon Table
 Stores information about moons.
 | Column | Data Type |
@@ -71,7 +71,7 @@ Stores information about moons.
 | is_spherical | BOOLEAN |
 | radius_km | INTEGER |
 | planet_id | INTEGER |
----
+--
 ### Blackhole Table
 Stores information about black holes.
 | Column | Data Type |
