@@ -176,7 +176,6 @@ After completing this project, you will understand:
 - How PostgreSQL manages data integrity
 - How to design real-world database systems
 --
-
 ## 👨‍💻 Author
 **Sai Sanjay Varma Datla**
 
