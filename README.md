@@ -142,7 +142,6 @@ moon.planet_id → planet.planet_id
 - Proxima b
 - Kepler-22b
 ### Moons
-
 - The Moon
 - Phobos
 - Deimos
