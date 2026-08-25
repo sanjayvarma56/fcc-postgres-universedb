@@ -152,7 +152,7 @@ moon.planet_id → planet.planet_id
 - Sagittarius A*
 - M87*
 - Gargantua
-----
+--
 ## 📚 Concepts Practiced
 - SQL
 - PostgreSQL
