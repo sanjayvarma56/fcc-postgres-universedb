@@ -177,5 +177,4 @@ After completing this project, you will understand:
 ## 👨‍💻 Author
 **Sai Sanjay Varma Datla**
 
-
 SQL Portfolio Project
