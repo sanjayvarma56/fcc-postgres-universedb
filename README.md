@@ -115,7 +115,7 @@ moon.planet_id → planet.planet_id
 - star → galaxy
 - planet → star
 - moon → planet
-----
+--
 ## 📊 Sample Data
 ### Galaxies
 - Milky Way
