@@ -153,6 +153,7 @@ moon.planet_id → planet.planet_id
 - M87*
 - Gargantua
 --
+
 ## 📚 Concepts Practiced
 - SQL
 - PostgreSQL
