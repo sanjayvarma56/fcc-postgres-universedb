@@ -24,6 +24,7 @@ This project demonstrates database design concepts such as:
 - Uses primary and foreign key constraints
 - Includes sample astronomical data
 --
+
 ## 🛠️ Technologies Used
 - PostgreSQL
 - SQL
