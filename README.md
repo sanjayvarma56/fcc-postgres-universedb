@@ -27,6 +27,7 @@ This project demonstrates database design concepts such as:
 --
 
 ## 🛠️ Technologies Used
+
 - PostgreSQL
 - SQL
 --
